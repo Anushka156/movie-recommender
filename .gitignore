@@ -1,0 +1,21 @@
+# Virtual environments
+.venv/
+venv_new/
+env/
+ENV/
+
+# IDE / Editor settings
+.idea/
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large uncompressed matrix (similarity.pkl.gz is used instead for git/cloud)
+similarity.pkl
